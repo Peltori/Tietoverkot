@@ -1,6 +1,6 @@
-# A template repository for Data Networks course exercise documentation
+# Pohjarepositorio Tietoverkot opintojakson harjoitteille 
 
-Please write your documentation the following markdowns created as templates under the `/documentation/` -folder.
+Ole hyvä ja kirjoita dokumentaatiosi alapuolisiin tiedostoihin, jotka löytyvät `/documentation/` -kansion alta.
 
 - [E01.md](/documentation/E01.md)
 - [E02.md](/documentation/E02.md)
@@ -20,29 +20,31 @@ Please write your documentation the following markdowns created as templates und
 - [E16.md](/documentation/E16.md)
 - [E17.md](/documentation/E17.md)
 
-If you have additional material (pictures, topologies), please save them in the repository to the correct folder e.g. `/documentation/E01/jamk.png`
+Jos sinulla on ylimääräistä materiaalia (kuvioita, topologioita), tallenna ne repositoriossa oikeaan kansioon esim. `/documentation/E01/jamk.png`
 
-## Example markdown
+## Esimerkki Markdown
 
-### Plain text
+### Perustekstiä
 
-Your name here: 
-Student number: 
-Student group: 
+Sinun nimesi tähän: 
 
-### Image
+Opiskelijanumerosi: 
 
-This is a reference to an image
+Opiskelijaryhmä: 
+
+### Kuva
+
+Tämä on viittaus kuvioon
 
 ![](/documentation/E01/jamk.png)
 
-### Configuration example
+### Konfiguraatio
 
-Either as a file
+Joko tiedostoviittauksena
 
 - [switch.cfg](/documentation/switch.cfg)
 
-Or as a blockquote/snippet
+Tai otteena konfiguraatiosta
 
 ```
 EXOS-VM.1 # show configuration
